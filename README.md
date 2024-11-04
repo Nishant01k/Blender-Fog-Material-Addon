@@ -1,2 +1,21 @@
 # Blender-Fog-Material-Addon
-A simple Blender addon to add customizable fog material with one click.
+A Blender addon that allows you to add fog material to any selected object with a single click.
+
+## Features
+- Adds a fog material with adjustable settings for easy customization.
+- Adds a "Fog Tools" panel in the 3D Viewport sidebar (N-panel) for quick access.
+
+## Installation
+1. **Download the addon**: Clone or download this repository, or download the `fog_material_addon.py` file.
+2. **Install in Blender**:
+    - Open Blender and go to `Edit > Preferences > Add-ons`.
+    - Click `Install...` and select the `fog_material_addon.py` file.
+    - Enable the addon by checking the box next to "Fog Material Addon".
+
+3. **Using the Addon**:
+    - Go to the 3D Viewport, open the sidebar (N-panel), and find the **Fog Tools** tab.
+    - Click **Add Fog Material** to apply fog to the selected object.
+
+## Preview
+![Preview Image](images/preview.png)
+

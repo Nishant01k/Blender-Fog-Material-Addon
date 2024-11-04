@@ -17,5 +17,16 @@ A Blender addon that allows you to add fog material to any selected object with 
     - Click **Add Fog Material** to apply fog to the selected object.
 
 ## Preview
-![Preview Image](Images/image 1.png)
+
+
+
+
+
+
+
+
+
+
+## Blender
+![Preview Image](Images/image.png)
 

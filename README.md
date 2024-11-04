@@ -1,6 +1,11 @@
 # Blender-Fog-Material-Addon
 A Blender addon that allows you to add fog material to any selected object with a single click.
 
+
+<p align="center">
+  <img src="Images/image.png" alt="Preview Image" width="300"/>
+</p>
+
 ## Features
 - It adds fog material with adjustable settings for easy customization.
 - Adds a "Fog Tools" panel in the 3D Viewport sidebar (N-panel) for quick access.
@@ -20,13 +25,4 @@ A Blender addon that allows you to add fog material to any selected object with 
 
 
 
-
-
-
-
-
-
-
-## Blender
-![Preview Image](Images/image.png)
 
